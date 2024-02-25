@@ -1,0 +1,6 @@
+name: SharkBot Plugin Template
+description:
+  - "SharkBot Plugin Template"
+author: ["Author"]
+version: ${gradle.project.getVersion()}
+main: org.example.PluginTemplate
